@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search.Specs", "Search.Spec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApp", "SampleWebApp\SampleWebApp.csproj", "{E25B5985-1B6C-48E4-ADDA-82B82632F332}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApp.AcceptanceTests", "SampleWebApp.AcceptanceTests\SampleWebApp.AcceptanceTests.csproj", "{334B1CD8-7A32-4B12-986C-ED244DACB9A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
