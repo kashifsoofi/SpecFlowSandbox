@@ -9,6 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search.Specs", "Search.Specs\Search.Specs.csproj", "{9604B08F-72FE-48B5-BFE3-3A68D962B3D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApp", "SampleWebApp\SampleWebApp.csproj", "{E25B5985-1B6C-48E4-ADDA-82B82632F332}"
+EndProject
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +30,14 @@ Global
 		{9604B08F-72FE-48B5-BFE3-3A68D962B3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9604B08F-72FE-48B5-BFE3-3A68D962B3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9604B08F-72FE-48B5-BFE3-3A68D962B3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25B5985-1B6C-48E4-ADDA-82B82632F332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25B5985-1B6C-48E4-ADDA-82B82632F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25B5985-1B6C-48E4-ADDA-82B82632F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25B5985-1B6C-48E4-ADDA-82B82632F332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334B1CD8-7A32-4B12-986C-ED244DACB9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334B1CD8-7A32-4B12-986C-ED244DACB9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334B1CD8-7A32-4B12-986C-ED244DACB9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334B1CD8-7A32-4B12-986C-ED244DACB9A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

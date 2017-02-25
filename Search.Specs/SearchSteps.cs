@@ -17,7 +17,7 @@ namespace Search.Specs
         [Given(@"I navigate to page ""(.*)""")]
         public void GivenINavigateToPage(string url)
         {
-            driver = new FirefoxDriver();
+            driver = new ChromeDriver();
             driver.Navigate().GoToUrl(url);
         }
         
